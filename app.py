@@ -183,7 +183,6 @@ if user_input:
     })
 
 
-
 # PREGUNTAS DE EJEMPLO
 st.sidebar.header("Preguntas de ejemplo")
 example_questions = [
