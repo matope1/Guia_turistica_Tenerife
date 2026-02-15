@@ -1,0 +1,9 @@
+langchain 
+google-genai 
+faiss-cpu 
+chromadb 
+python-dotenv 
+pydantic 
+requests 
+PyPDF2 
+google-generativeai
