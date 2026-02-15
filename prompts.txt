@@ -1,0 +1,21 @@
+Prompts para copiar y pegar:
+----------------------------
+
+Háblame del Teide
+Qué playas puedo visitar en Tenerife
+Recomiéndame restaurantes en Santa Cruz
+Qué lugares son buenos para ver el atardecer
+Qué actividades se pueden hacer en Puerto de la Cruz
+Qué tiempo hará el 2024-05-01
+Predicción del clima para el 2024-12-01
+Me llamo Guillermo, ¿podrías acordarte de llamarme por mi nombre en cada respuesta, por favor?
+Qué excursiones de un día se pueden hacer desde Costa Adeje
+Qué museos o centros culturales se pueden visitar
+Recomiéndame lugares para hacer snorkel o buceo
+Qué eventos o festivales hay en mayo en Tenerife
+Qué carreteras o rutas panorámicas son más bonitas
+Qué transporte público puedo usar para ir al Teide
+Me gustaría un itinerario de 3 días por Tenerife
+Cuáles son los pueblos más bonitos para visitar en el norte de la isla
+Qué comida típica debería probar en Tenerife
+Dame consejos para viajar con niños por Tenerife
