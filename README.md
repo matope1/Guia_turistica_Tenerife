@@ -47,7 +47,7 @@ El sistema sigue esta arquitectura:
 
 6. **Memoria Conversacional**
    - Se almacena el historial de conversación.
-   - Se limita a 5 turnos para evitar exceso de tokens.
+   - Se limita a 5 turnos para evitar exceso de tokens(Modelo limitado al ser gratuito).
 
 7. **Function Calling**
    - Se incluye una función simulada para consultar el clima.
